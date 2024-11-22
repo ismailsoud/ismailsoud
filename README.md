@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm smail</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate developer from Morocco</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailsoud" alt="ismailsoud" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and react**
+- 🌱 I’m currently learning **Java and flutter**
 
-- 💬 Ask me about **tailwindcss, react, python, javaScript, php**
+- 💬 Ask me about **Laravel, tailwindcss, react, python, javaScript, php, node.js**
 
-- 📫 How to reach me **shma3inn@gmail.com**
+- 📫 How to reach me **ismailsoudassi00@gmail.com**
 
-- ⚡ Fun fact **I'm the CEO of google**
 
 <h3 align="left">Connect with me:</h3>
+ Linkedin **https://www.linkedin.com/in/ismail-soudassi-924903311/**
 <p align="left">
 </p>
 
