@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ismailsoudassi00@gmail.com**
 
-- ⚡ Fun fact **Second in line to the throne**
+- ⚡ Fun fact **I'm second in line to the throne**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
